@@ -8,3 +8,6 @@ Izveidot teksta datnes ‘admin.txt’ un ‘viesis.txt’
 2. Aprēķināt vidējo administratora vecumu, visvecāko un visjaunāko administratoru.
 
 3. Izdrukāt cik apvienotajā datnē administratoru, cik viesu.
+
+https://replit.com/@katjadudorova/1uzdevums
+links uz uzdevumu Replit!!!
